@@ -2,6 +2,8 @@ import 'package:app/pages/bottomnav.dart';
 import 'package:app/pages/home.dart';
 import 'package:app/pages/login.dart';
 import 'package:app/pages/onboard.dart';
+import 'package:app/pages/order.dart';
+import 'package:app/pages/profile.dart';
 import 'package:app/pages/signup.dart';
 import 'package:flutter/material.dart';
 
