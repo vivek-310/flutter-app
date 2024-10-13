@@ -282,11 +282,11 @@ class _homeState extends State<home> {
                     Column(children: [
                       Container(
                         width: MediaQuery.of(context).size.width/2,
-                        child: Text("chickpea salad medtrian",style: AppWidget.boldTextFeildStyle(),))
+                        child: Text("chocalte icecream",style: AppWidget.boldTextFeildStyle(),))
                         ,
                         Container(
                         width: MediaQuery.of(context).size.width/2,
-                        child: Text("honey with chicken",style: AppWidget.lightlineTextFeildStyle(),)),
+                        child: Text("with choco chips",style: AppWidget.lightlineTextFeildStyle(),)),
                         Container(
                         width: MediaQuery.of(context).size.width/2,
                         child: Text("\$20",style: AppWidget.boldTextFeildStyle(),))
